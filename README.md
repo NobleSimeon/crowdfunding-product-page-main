@@ -35,7 +35,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [github repo](https://github.com/NobleSimeon/crowdfunding-product-page-main)
-- Live Site URL: [link](https://https://crowdfundingpp.netlify.app)
+- Live Site URL: [link](https://crowdfundingpp.netlify.app)
 
 ## My process
 

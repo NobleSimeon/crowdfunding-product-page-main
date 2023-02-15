@@ -55,6 +55,9 @@ button {
 button:hover {
     background-color: var(--Dark-cyan);
 }
+@media (hover: none) {
+    button:hover  { background-color: inherit; }
+  }
 p {
     font-size: 0.8rem;
     font-weight: 500;
@@ -210,6 +213,10 @@ main {
     background-color: #efefef;
     color: var(--Dark-gray);
 }
+@media (hover: none) {
+    .bookmark:hover {     background-color: inherit;
+        color: inherit}
+  }
 .bookmark span:first-of-type {
     position: absolute;
     top: 55%;
