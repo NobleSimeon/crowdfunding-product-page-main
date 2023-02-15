@@ -35,7 +35,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [github repo](https://github.com/NobleSimeon/crowdfunding-product-page-main)
-- Live Site URL: [link](https://your-live-site-url.com)
+- Live Site URL: [link](https://https://crowdfundingpp.netlify.app)
 
 ## My process
 
@@ -50,7 +50,7 @@ Users should be able to:
 
 ### What I learned
 
-In this project, i learned how to work with svg files. And I was able to create a modal popup. 
+In this project, i learned how to work with svg files though not professionally. And I was able to create a modal popup. 
 And when the modal is active, the body doesn't move
 
 ```html
@@ -75,6 +75,7 @@ function toggleModal() {
 ### Continued development
 
 I want to focus on how to get the DRY principles right. 
+In this project, I notice I'm not that good in creating navbar and make use of animations. I'd love to deep dive into that 
 
 
 ## Author
