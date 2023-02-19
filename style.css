@@ -140,15 +140,16 @@ main {
         display: block;
     }
     header nav {
-        position: absolute;
+        position: fixed;
         top: 70px;
-        width: 100%;
+        width: calc(100% - 74px);
         border-radius: 0.5rem;
         background-color: white;
         transform-origin: top center;
         transform: scaleY(0);
         transition: transform 0.3s ease-in-out;
-        box-shadow: 0 20px 100px 0px rgb(0 0 0 / 50%);
+        box-shadow: 0 50vh 100px 10vh rgb(0 0 0 / 40%);
+        z-index: 999;
     }
     header.active nav {
         transform: scaleY(1);
@@ -158,6 +159,7 @@ main {
     }
     nav li {
         padding: 2rem;
+        text-align: center;
     }
     nav li a{
         color: var(--Black);
