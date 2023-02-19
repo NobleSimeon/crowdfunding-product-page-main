@@ -150,7 +150,7 @@ main {
     background-color: white;
     transform-origin: top center;
     transform: scaleY(0);
-    transition: transform 0.3s ease-in-out, box-shadow 0.1git s ease 0.3s;
+    transition: transform 0.3s ease-in-out, box-shadow 0.1s ease 0.3s;
     z-index: 999;
   }
   header.active nav {
